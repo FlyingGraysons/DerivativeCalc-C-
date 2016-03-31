@@ -6,7 +6,7 @@ The function uses a variadic function to be able to work with any degree equatio
 ## Usage
 All code is in the derive.h file, which can be included with the simple  
 ```cpp
-#include derive.h
+#include "derive.h"
 ```
 The function is called `derive()`  
 The mathematical equation must be expressed in coefficient form, which may not work for all equations.  
