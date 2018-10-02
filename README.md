@@ -1,7 +1,7 @@
 # DerivativeCalc-Cpp
 A library to calculate derivatives of mathematical equations, written and usable in C++, as well as any derived langauges (D).  
 This is derivatives in the calculus sense.  
-The function uses a variadic function to be able to work with any degree equation.
+The function uses a variadic function to be able to work with any polynomial, and only can do the power rule on positive integer terms.
 
 ## Usage
 All code is in the derive.h file, which can be included with the simple  
